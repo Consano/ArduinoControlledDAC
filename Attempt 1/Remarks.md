@@ -4,15 +4,16 @@ I started by designing the mounting board for the digital potentiometers in KiCa
 By ironing UV photoresist film onto copper boards and then exposing them using the Saturn 3 I was able to selectively develop the boards similarly to using transparencies but without needing a printer.
 
 This resulted in the copper parts of my design in dark blue on my copper boards indicating successful exposure.
-![[20250208_181330.jpg|300]]
+![20250208_181330](20250208_181330.jpg)
 
 These were then developed using a basic solution (Calcium Carbonate dissolved in water) that I made using baking soda (Calcium Bicarbonate) baked in an oven to reduce it to its mono carbonate form. When exposed to this solution the non exposed portions of the film dissolved.
-![[20250208_221336.jpg|300]]
+![20250208_221336](20250208_221336.jpg)
 
 This was then placed in an acidic solution of vinegar, Hydrogen Peroxide, and salt to dissolve the exposed copper and etch the board.
-![[20250208_223711.jpg]]
+![20250208_223711](20250208_223711.jpg)
+![20250208_225301](20250208_225301.jpg)
 Finally the etched board was placed in a lye bath to neutralize the acid and strip the remaining photoresist.
-![[20250208_230100.jpg]]
+![20250208_230100](20250208_230100.jpg)
 This resulted in a board that could then be soldered and used to integrate the SMDs to a breadboard for prototyping. Unfortunately this attempt proved to be a failure both in part to my design, the limitations of this method, and my unfamiliarity with hand soldering SMDs
 ### What went wrong
 - The UV film and Copper boards had enough defects that it was difficult to find enough space to prep the PCB based on its footprint
